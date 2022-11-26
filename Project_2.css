@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 25px 50px;
+    margin: 30px;
+    background-color: white;
+    font: bolder;
+    font-size: medium;
+    color: black;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 10px;
+
+}
+
+button:hover{
+    background-color: rgb(220, 215, 215);
+    color: rgb(18, 69, 13);
+}
