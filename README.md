@@ -1,4 +1,4 @@
-Second JavaScript Project
+My Second JavaScript Project
 
 Requirements:- 
 "1: Create three buttons with red, green, yellow color respectively. 
